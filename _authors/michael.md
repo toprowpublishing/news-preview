@@ -5,5 +5,5 @@ position: Editor-in-Chief
 ---
 Michael is a journalist and photographer with a background in Politics, Philosophy, and Economics. He reads and travels constantly to cover the stories of the world in political flux.
 
-Email: [michael@toprow.news](mailto:michael@toprow.news)
+Email: [michael@toprow.news](mailto:michael@toprow.news)<br>
 Phone: 1-780-285-4255
